@@ -1,8 +1,5 @@
-# ![Node/Express/Mongoose Example App](project-logo.png)
 
-[![Build Status](https://travis-ci.org/anishkny/node-express-realworld-example-app.svg?branch=master)](https://travis-ci.org/anishkny/node-express-realworld-example-app)
-
-> ### Node.js - Practicle task for Devstree IT Service (Express + Mongoose) 
+# Node.js - Practicle task for Devstree IT Service (Express + Mongoose) 
 
 This repo is functionality complete — PRs and issues welcome!
 
